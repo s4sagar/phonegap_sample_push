@@ -9,7 +9,8 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
-    <gap:plugin name="com.phonegap.plugins.pushplugin" />
     <preference name="fullscreen" value="true" />
     <preference name="webviewbounce" value="true" />
+
+    <gap:plugin name="com.phonegap.plugins.example" />
 </widget>
