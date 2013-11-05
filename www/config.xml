@@ -9,7 +9,7 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
+    <gap:plugin name="com.adobe.plugins.pushplugin" />
     <preference name="fullscreen" value="true" />
     <preference name="webviewbounce" value="true" />
-
 </widget>
